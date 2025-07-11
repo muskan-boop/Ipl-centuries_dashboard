@@ -58,7 +58,8 @@ This project is created to showcase my ability to:
 
 ## 📷 Screenshots
 
-*(Insert dashboard screenshot here)*
+<img width="1125" height="729" alt="Screenshot 2025-07-11 190934" src="https://github.com/user-attachments/assets/fc8b2c81-bc2e-45b0-88d5-25b311755e7e" />
+
 
 ---
 
